@@ -1,2 +1,2 @@
 #!/bin/bash
-echo root
+whoami > chmod +x 1-effective_user
