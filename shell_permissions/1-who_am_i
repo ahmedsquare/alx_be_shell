@@ -1,3 +1,2 @@
 #!/bin/bash
 sudo whoami
-chmod +x 1-effective_user
